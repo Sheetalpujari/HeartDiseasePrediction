@@ -1,1 +1,1 @@
-# HeartDiseasePrediction
+# HeartDiseasePrediction Using KNN model
